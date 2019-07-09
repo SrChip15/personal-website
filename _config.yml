@@ -60,5 +60,13 @@ topics:
   - name: VueJS
     web_url: https://github.com/vuejs/vue
     image_url: https://vuejs.org/images/logo.png
+    
+  - name: NestJS
+    web_url: https://github.com/nestjs/nest
+    image_url: https://d33wubrfki0l68.cloudfront.net/49c2be6f2607b5c12dd27f8ecc8521723447975d/f05c5/logo-small.cbbeba89.svg
+    
+  - name: Loopback
+    web_url: https://github.com/strongloop/loopback
+    image_url: https://loopback.io/images/branding/logo/blue/loopback.svg
 
 theme: jekyll-theme-minimal
